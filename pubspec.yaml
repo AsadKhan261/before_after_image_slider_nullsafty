@@ -1,0 +1,17 @@
+name: before_after_image_slider_nullsafty
+description: A flutter package which makes it easier to display the difference between two images Side by Side With a before and after slideer.
+version: 1.0.0
+homepage: https://github.com/AsadKhan261/before_after_image_slider_nullsafty
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
